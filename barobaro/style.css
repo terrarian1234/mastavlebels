@@ -1,0 +1,126 @@
+.flexbox{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+}
+.d1{
+    width: 300px;
+    height: 420px;
+    background: rgb(46,43,233);
+    background: linear-gradient(87deg, rgba(46,43,233,1) 35%, rgba(120,87,240,1) 100%);
+    border-radius: 20px;
+
+}
+.d2{
+    width: 300px;
+    height: 420px;
+    background-color: hsl(0%,0%,100%);
+}
+.mini1{
+    margin-top: 60px;
+    margin-left: 80px;
+    border-radius: 50%;
+    height: 125px;
+    width: 125px;
+    background: rgb(78,33,202);
+    background: linear-gradient(87deg, rgba(78,33,202,1) 35%, rgba(36,33,202,1) 100%);
+}
+
+.p1{
+    color: white;
+    margin-top: 45px;
+    margin-left: 45px;
+    font-size: 30px;
+    font-family: "Hanken Grotesk", sans-serif;
+    font-weight: 800;
+}
+.p2{
+    color:hsl(222, 77%, 86%);
+    margin-top: 45px;
+    margin-left: 45px;
+    font-size: 12px;
+    font-family: "Hanken Grotesk", sans-serif;
+    font-weight: 500;
+}
+.p3{
+    font-size: 18px;
+    margin-left: 105px;
+    margin-top: 20px;
+    color:hsl(222, 77%, 86%);
+}
+.p4{
+    color: white;
+    margin-top: 25px;
+    margin-left: 105px;
+    font-size: 30px;
+    font-family: "Hanken Grotesk", sans-serif;
+    font-weight: 500;
+}
+.p5{
+    
+    color:hsl(222, 77%, 86%);
+    margin-top: 45px;
+    margin-left: 45px;
+    font-size: 15px;
+    padding: 10px;
+    font-family: "Hanken Grotesk", sans-serif;
+    font-weight: 500;
+}
+.p6{
+    font-family: "Hanken Grotesk", sans-serif;
+    font-weight: 500;
+    margin-left: 40px;
+    margin-top: -30px;
+    padding: 10px;
+}
+.p7{
+    color: black;
+    margin-top: 25px;
+    margin-left: 45px;
+    font-size: 18px;
+    font-family: "Hanken Grotesk", sans-serif;
+    font-weight: 800;
+}
+.d3{
+    height: 30px;
+    margin-left: 30px;
+    border-radius: 5px;
+    width: 180px;
+    background-color: hsl(0, 81%, 83%);
+}
+.d4{
+    margin-top: 20px;
+    margin-left: 30px;
+    border-radius: 5px;
+    width: 180px;
+    background-color:hsl(39, 88%, 83%)
+}
+.logo1{
+    padding: 10px;
+}
+.d5{
+    margin-top: 20px;
+    height: 30px;
+    margin-left: 30px;
+    border-radius: 5px;
+    width: 180px;
+    background-color: hsl(166, 30%, 56%);
+}
+.d6{
+    margin-top: 20px;
+    height: 30px;
+    margin-left: 30px;
+    border-radius: 5px;
+    width: 180px;
+    background-color: hsl(234, 47%, 60%);
+}
+button{
+    background-color:hsl(224, 30%, 27%);
+    border-radius: 25px;
+    width: 150px;
+    height: 50px;
+    margin-left: 50px;
+    margin-top: 70px;
+}
